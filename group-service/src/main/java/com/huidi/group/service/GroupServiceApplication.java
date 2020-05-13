@@ -1,13 +1,13 @@
-package com.huidi.groups;
+package com.huidi.group.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GroupsApplication {
+public class GroupServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GroupsApplication.class, args);
+		SpringApplication.run(GroupServiceApplication.class, args);
 	}
 
 }
